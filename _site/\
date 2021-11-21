@@ -1,0 +1,237 @@
+<!DOCTYPE HTML>
+<!--
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>AD4SD2021 Workshop</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<span class="logo"><img src="images/logo.svg" alt="" /></span>
+						<h1>Anomaly Detection for Scientific Discovery Seminars (Season I)</h1>
+						<p>Bring machine learning experts and domain scientists together<br />
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="#intro" class="active">Introduction</a></li>
+							<li><a href="#keynote">Speakers</a></li>
+							<li><a href="#sch">Schedule</a></li>
+							<li><a href="#itr">Interactive</a></li>
+							<li><a href="#org">Organizers</a></li>
+							<li><a href="#coc">Code of Conduct</a></li>
+
+
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Introduction -->
+							<section id="intro" class="main">
+								<div class="spotlight">
+									<div class="content">
+										<header class="major">
+											<h2>Introduction</h2>
+										</header>
+										<p>
+										Automatically detecting anomalies and distribution shifts is an essential aspect of modern science.  For example, anomaly detection is used to search for new fundamental particles and forces of nature, anomalous galactic activities, novel molecular dynamics, and new medical conditions. Concurrently, the machine learning community is also interested in anomaly/out-of-distribution detection problems. The effectiveness and robustness of computational pipelines and autonomous systems must be ensured by inspecting and validating incoming data.  Unfortunately, machine learning research in these areas is often disconnected from real-world applications, and limited to the common MNIST and CIFAR benchmarks.  This initiative aims to bridge this gap, facilitating conversation between machine learning researchers and domain scientists. The goal is to forge collaborations by introducing the former to impactful applications and exposing the latter to useful methodologies and computational tools.  The practical side of in-the-wild anomaly detection will also be discussed, with topics including model design, data pipelines, model validation, experimental process, and common pitfalls.
+										</p>
+									</div>
+									<!-- <span class="image"><img src="images/pic01.jpg" alt="" /></span> -->
+								</div>
+							</section>
+
+						<!-- First Section -->
+						<!--<section id="keynote" class="main special">-->
+							<section id="keynote" class="main">
+								<header class="major">
+									<h2>Speakers</h2>
+								</header>
+								<ul class="features">
+									<li>
+
+										<img style="width:10em;" src="images/thomas_profile.jpg" alt=""/>
+										<h3><a href="http://web.engr.oregonstate.edu/~tgd/">Thomas G. Dietterich (Oregon State Univ.)</a></h3>
+										<p>Machine Learning Expert working on anomaly detection</p>
+									</li>
+									<li>
+										<img style="width:10em;" src="images/jie_profile.jpeg" alt=""/>
+										<h3><a href="https://research.google/people/JieJessieRen/">Jie Ren (Google)</a></h3>
+										<p>Machine Learning Expert working on anomaly detection</p>
+									</li>
+									<li>
+										<img style="width:10em;" src="images/danilo_profile.jpg" alt=""/>
+										<h3><a href="https://danilobzdok.de/">Danilo Bzdok (McGill University)</a></h3>
+										<p>Neuroscience</p>
+									</li>
+									<li>
+										<img style="width:10em;" src="images/kiri_profile.jpg" alt=""/>
+										<h3><a href="https://www.wkiri.com/index.html">Kiri L. Wagstaff (NASA Jet Propulsion Laboratory)</a></h3>
+										<p>Astronomy/Planetary Science</p>
+									</li>
+									<li>
+										
+									</li>
+									<li>
+										
+									</li>
+								</ul>
+							</section>
+
+
+							<section id="sch" class="main">
+								<header class="major">
+									<h2>Schedule</h2>
+								</header>
+								<div class="table-wrapper">
+									<table>
+										<tbody>
+											<tr>
+												<td> Dec. 02, 2021 </td>
+												<td> Jie Ren </td>
+												<td> Exploring the limits of out-of-distribution detection in vision and biomedical applications</td> 
+												<td> [Recoding] </td>
+											</tr>
+											<tr>
+												<td> Jan. 13, 2022 </td>
+                                                                                                <td> Thomas G. Dietterich </td>
+                                                                                                <td> TBA </td>
+                                                                                                <td> [Recoding] </td>
+											</tr>
+											<tr>
+												<td> Feb. 10, 2022 </td>
+												<td> Sharon Yixuan Li </td>
+
+											</tr>
+											<tr>
+                                                                                                <td> Dec. xx </td>
+                                                                                                <td> Danilo Bzdok </td>
+                                                                                                <td> [Title] </td>
+                                                                                                <td> [Recoding] </td>
+                                                                                        </tr>
+											<tr>
+                                                                                                <td> Jan. 2022 </td>
+                                                                                                <td> Kiri L. Wagstaff </td>
+                                                                                                <td> [Title] </td>
+                                                                                                <td> [Recoding] </td>
+                                                                                        </tr>
+										</tbody>
+									</table>
+								</div>
+							</section>
+
+
+							<section id="itr" class="main">
+								<header class="major">
+									<h2>Interactive</h2>
+									<p></p>
+								</header>
+							</section>
+
+							<section id="org" class="main">
+								<header class="major">
+									<h2>Organizers</h2>
+								</header>
+								<ul class="features">
+									<li>
+										<h3><a href="https://taolicheng.github.io">Taoli Cheng</a></br>Mila, University of Montreal</h3>
+									</li>
+									<li>
+										<h3><a href="http://cern.ch/bnachman">Benjamin Nachman</a></br>LBNL</h3>
+									</li>
+									<li>
+										<h3><a href="https://enalisnick.github.io/">Eric Nalisnick</a></br>University of Amsterdam</h3>
+									</li>
+									<li>
+										<h3><a href="https://people.eecs.berkeley.edu/~hendrycks/">Dan Hendrycks</a></br>UC Berkeley</h3>
+									</li>
+									<li>
+										<h3><a href="https://josephpcohen.com/w/">Joseph Paul Cohen</a></br>AIMI, Stanford University</h3>
+									</li>
+									<li>
+										astro
+									</li>
+									<!--
+									<li>
+										<img style="width:10em;" src="images/xx.jpg" alt=""/>
+										<h3><a href="http://cobralab.ca">Mallar Chakravarty</a></br>McGill University</h3>
+									</li>
+									-->
+								</ul>
+							</section>
+
+							<section id="coc" class="main">
+								<header class="major">
+									<h2>Code of Conduct</h2>
+								</header>
+								<p>
+								We are committed to create an open and friendly environment for scientific sharing and communication. All participants (including organizers, speakers, and attendees) are required to comply with the <a href="https://nips.cc/public/CodeOfConduct">Code of Conduct</a> from the NeurIPS community. Any violations could be communicated to the organizers at <a href="mailto:ad4sd2021@gmail.com">ad4sd2021@gmail.com</a>.
+								</p>
+							</section>
+
+						<!-- Get Started -->
+
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<!--
+						<section>
+							<h2>Aliquam sed mauris</h2>
+							<p>Sed lorem ipsum dolor sit amet et nullam consequat feugiat consequat magna adipiscing tempus etiam dolore veroeros. eget dapibus mauris. Cras aliquet, nisl ut viverra sollicitudin, ligula erat egestas velit, vitae tincidunt odio.</p>
+							<ul class="actions">
+								<li><a href="generic.html" class="button">Learn More</a></li>
+							</ul>
+						</section>
+					-->
+						<section>
+							<h2>Contact</h2>
+							<dl class="alt">
+								<dt>Email</dt>
+								<dd><a href="#">ad4sd2021@gmail.com</a></dd>
+							</dl>
+							<!--
+							<ul class="icons">
+								<li><a href="#" class="icon fa-twitter alt"><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="icon fa-facebook alt"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon fa-instagram alt"><span class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon fa-github alt"><span class="label">GitHub</span></a></li>
+								<li><a href="#" class="icon fa-dribbble alt"><span class="label">Dribbble</span></a></li>
+							</ul>
+						-->
+						<a href='https://groups.google.com/forum/#!forum/ad4sd'>subscribe</a>
+						</section>
+						<p class="copyright">&copy; Taoli Cheng. Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a>. Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
