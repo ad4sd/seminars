@@ -1,3 +1,5 @@
-# ad4sd2021.github.io
 
-Anomaly Detection for Scientific Discovery Workshop 2021
+## Anomaly Detection for Scientific Discovery Seminar Series 
+
+* [Website](http://ad4sd.github.io/seminars)
+* Talk announcements: [subscribe](https://groups.google.com/forum/#!forum/ad4sd)

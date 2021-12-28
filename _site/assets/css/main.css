@@ -3799,3 +3799,14 @@
 			}
 
 		}
+
+/* extra */		
+
+	.hide {
+ 		 display: none;
+		}
+
+	.abstract:hover + .hide {
+  		display: block;
+  		color: red;
+		}
