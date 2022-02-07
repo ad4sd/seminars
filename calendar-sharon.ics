@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20220210T180000Z
+DTEND:20220210T190000Z
+SUMMARY:AD4SD Seminar -- Prof. Sharon Li (University of Wisconsin-Madison)
+DESCRIPTION:Zoom Link: https://umontreal.zoom.us/j/89215211351?pwd=c0V4NGFXczk5NFN3dnpiUzFqcTNYdz09\nMeeting ID: 892 1521 1351\nPasscode: 789626\n\nTitle: Challenges and Opportunities in Out-of-distribution Detection\n\nAbstract: The real world is open and full of unknowns, presenting significant challenges for machine learning (ML) systems that must reliably handle diverse, and sometimes unknown inputs. Out-of-distribution (OOD) uncertainty arises when a machine learning model sees a test-time input that differs from its training data, and thus should not be predicted by the model. As ML is used for more safety-critical domains, the abilities to handle out-of-distribution data are central in building open-world learning systems. In this talk, I will talk about challenges, methods, and opportunities in uncovering the unknowns of deep neural networks for reliable predictions in an open world.
+LOCATION:https://umontreal.zoom.us/j/89215211351?pwd=c0V4NGFXczk5NFN3dnpiUzFqcTNYdz09
+END:VEVENT
+END:VCALENDAR
