@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20220317T170000Z
+DTEND:20220317T180000Z
+SUMMARY:AD4SD Seminar -- Prof. V. Ashley Villar (Pennsylvania State University))
+DESCRIPTION:Join Zoom Meeting\nhttps://umontreal.zoom.us/j/88459937283?pwd=d2tKeTQ5YlFsZzk1NEhudzBranFuZz09\nMeeting ID: 884 5993 7283\nPasscode: 516661\n\nTitle: Anomaly Detection for Cosmic Explosion\n\nAbstract: \nThe eruptions, collisions and explosions of stars drive the universe’s chemical and dynamical evolution. The upcoming Large Synoptic Survey Telescope will drastically increase the discovery rate of these transient phenomena, bringing time-domain astrophysics into the realm of “big data.” With this transition comes the important question: how do we classify transient events and separate the interesting “needles” from the “haystack” of objects? In this talk, I will discuss efforts to discover and classify unexpected phenomena using semi-supervised machine learning techniques. I will highlight the interplay between data-informed physics and physics-informed machine learning required to best understand the future LSST dataset of extragalactic transients.
+LOCATION:https://umontreal.zoom.us/j/88459937283?pwd=d2tKeTQ5YlFsZzk1NEhudzBranFuZz09
+END:VEVENT
+END:VCALENDAR
